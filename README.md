@@ -4,6 +4,9 @@ Explore different datasets and classifier. This tutorial should demonstrate how 
 ## Preview
 ![Example of Streamlit|635x380](data/example.gif)
 
+## Watch the Tutorial
+  [![Alt text](https://img.youtube.com/vi/Klqn--Mu2pE/hqdefault.jpg)](https://www.youtube.com/watch?v=Klqn--Mu2pE)
+
 ## Installation
 You need these dependencies:
 ```console
