@@ -12,7 +12,8 @@ from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.metrics import accuracy_score
 
-st.title('Streamlit Example')
+st.title('Assignment Project')
+st.subheader('by Siddi Saai | Vamsi Krishna | Gnaneshwar')
 
 st.write("""
 # Explore different classifier and datasets
